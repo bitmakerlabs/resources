@@ -1,6 +1,6 @@
 # Pry
 
-Pry is a powerful alternative to the standard IRB shell for Ruby. It features syntax highlighting, runtime invocation and source and documentation browsing. To learn more about it,  [Pry Wiki](https://github.com/pry/pry/wiki)
+Pry is a powerful alternative to the standard IRB shell for Ruby. It features syntax highlighting, runtime invocation, and source and documentation browsing. To learn more about it, check out the [Pry Wiki](https://github.com/pry/pry/wiki). The [end of this tutorial](https://github.com/bitmakerlabs/resources/blob/master/using_pry.md#more-about-pry) also includes additional external links.
 
 As you are working on increasingly complex applications, you will need to acquaint yourself with problem solving and debugging. Pry can help by providing tools to gain more insight into what's going on with your code.
 
@@ -115,4 +115,5 @@ This shows how you can stop programs at any point and run specific lines of code
 ## More about pry
 
 [Railscasts: Pry with Rails](http://railscasts.com/episodes/280-pry-with-rails)
+
 [Setting up Rails or Heroku to use Pry](https://github.com/pry/pry/wiki/Setting-up-Rails-or-Heroku-to-use-Pry#wiki-heroku)
